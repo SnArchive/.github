@@ -3,6 +3,8 @@
 **Sni Archives** aims for the remembrance of the old and promote simplicity.
 
 🌈 Looking for members - everyone who believes that some things are better **simple** is welcomed
+
+## Keep Things Simple
 <!--
 
 **Here are some ideas to get you started:**
