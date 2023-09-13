@@ -1,5 +1,6 @@
 ## Hi there 👋
-the old can't be ignored. It is where future emerges. Never forget simplicity.
+
+**Sni Archives** aims for the remembrance of the old and promote simplicity.
 <!--
 
 **Here are some ideas to get you started:**
