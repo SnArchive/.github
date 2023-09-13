@@ -4,7 +4,8 @@
 
 🌈 Looking for members - everyone who believes that some things are better **simple** is welcomed
 
-## Keep Things Simple
+@notsnipc have it simple! and what about you?
+
 <!--
 
 **Here are some ideas to get you started:**
