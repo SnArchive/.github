@@ -2,7 +2,7 @@
 
 **Sni Archives** aims for the remembrance of the old and promote simplicity.
 
-🌈 Looking for members - everyone who believes that some things are better **simple** is welcomed
+🌈 Looking for members - everyone who is willing to be a **good** member is welcomed.
 
 Maintainer- 
 [snipc](https://snipc.fr.to) 
