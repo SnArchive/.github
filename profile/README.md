@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-**Sni Archives** aims for the remembrance of the old and promote simplicity.
+Old projects, dont't wanna delete but looks no good in the profile? shift them to **Sni Archives**
 
 🌈 Looking for members - everyone who is willing to be **contribute** is welcomed.
-
 Maintainer- 
-[snipc](https://snipc.fr.to) 
+[snipc](http://snipc.me) 
 
 <!--
 
