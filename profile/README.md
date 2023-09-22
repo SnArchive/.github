@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Old projects, dont't wanna delete but looks no good in the profile? shift them to **Sni Archives**
+Old projects, don't wanna delete but looks no good in the profile? shift them to **Sni Archives**!
 
 🌈 Looking for members - everyone who is willing to be **contribute** is welcomed.
 Maintainer- 
