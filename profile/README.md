@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Here contains some of my legacy and old projects and concepts. Takes too much room on my profile, so I just shift them to **Sni Archives**!
+Here are some of my legacy and unfinished projects and concepts. They take up too much room on my profile, so I move them to **Sni Archives**!
 
 Maintainer- 
 [snipc](http://snipc.me) 
