@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-Here are some of my legacy and unfinished projects and concepts. They take up too much room on my profile, so I move them to **Sni Archives**!
-
-Maintainer- 
-[snip](http://github.com/notsnip) 
+Here are some of my legacy, unfinished projects and concepts.
 
 <!--
 
